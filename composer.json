@@ -1,0 +1,13 @@
+{
+    "name": "pgault/check-wpcli",
+    "type": "library",
+    "require": {
+        "symfony/yaml": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Pascal GAULT",
+            "email": "pascal@inrage.fr"
+        }
+    ]
+}
